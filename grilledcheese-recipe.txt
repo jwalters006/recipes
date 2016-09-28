@@ -1,0 +1,16 @@
+Ingredients:
+ - 2 slices of cheese
+ - 1 tablespoon of butter
+ - 2 slices of bread
+
+ Directions:
+ 1. Heat up a pan on gas stove to medium intensity for 90 seconds.
+ 2. Spread half a tablespoon of butter on 1 side of each slice of bread.
+ 3. Place one slice of bread on heated pan, buttered side down.
+ 4. Place the two slices of cheese on top of the bread slice in the pan.
+ 5. Place the other slice of bread on top of the cheese slices, buttered
+ 	side up.
+ 6. When bottom slice of bread is sufficiently browned, flip sandwich in
+ 	the pan.
+ 7. When the other slice of bread is sufficiently browned, turn off heat,
+ 	remove sandwich, and enjoy.
